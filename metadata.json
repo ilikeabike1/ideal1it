@@ -1,0 +1,9 @@
+
+{
+  "name": "Smart IT Support Hub",
+  "description": "A comprehensive IT support portal featuring AI-powered troubleshooting, ticket management, knowledge base, and real-time dashboard.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
